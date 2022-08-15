@@ -35,7 +35,7 @@ jobs:
       - name: Login to Docker 
         uses: docker/login-action@v1 
         with:
-          username: Vladimir594
+          username: bestrebaterus@gmail.com
           password: 1d63c509363a9
       - name: Push to Docker Hub
         uses: docker/build-push-action@v2 
